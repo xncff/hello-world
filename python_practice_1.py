@@ -1,0 +1,1 @@
+print('Vlad Panko, CS-2')
